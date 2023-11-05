@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7 no-js" lang="en-US"><![endif]--><!--[if IE 8]><html class="ie ie8 no-js" lang="en-US"><![endif]--><!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en" class="no-js">
+
+<head><!-- Basic need -->
+	<title>Open Pediatrics</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="">
+	<link rel="profile" href="#"><!--Google Font-->
+	<link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Dosis:400,700,500|Nunito:300,400,600' />
+	<!-- Mobile specific meta -->
+	<meta name=viewport content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone-no"><!-- CSS files -->
+	<link rel="stylesheet" href="css/plugins.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<!-- BEGIN | Header -->
+	<div th:insert="~{header :: headerFragment}"></div>
+	<!-- END | Header -->
+
+	<div class="page-single userfav_list">
+		<div class="container">
+			<div class="row ipad-width2">
+				<div class="col-md-3 col-sm-12 col-xs-12">
+					<div class="user-information">
+						<div class="user-img"><a href="#"><img src="images/uploads/user-img.png" alt=""><br></a>
+							<!--<a href="#" class="redbtn">로그인</a>-->
+						</div>
+						<div class="user-fav">
+							<ul>
+								<li><a href="user_write_form">01. 회원가입</a></li>
+								<li class="active"><a href="userCheckIdPw">02. 아이디,비번찾기</a></li>
+							</ul>
+						</div>
+
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 col-xs-12">
+					<div class="form-style-1 user-pro" action="">
+						<form action="" class="user">
+							<h4>02. UserCheckId, Pw</h4>
+							<div class="row">
+								<div class="col-md-6 form-it"><label>아이디찾기 [UserEmail]</label><input type="text"
+										placeholder="이메일을 입력하세요."></div>
+								<div class="col-md-6 form-it"><label>[UserName]</label><input type="text"
+										placeholder="이름을 입력하세요."></div>
+							</div>
+							<div class="row">
+								<div class="col-md-6 form-it"><label>비밀번호찾기 [UserId]</label><input type="text"
+										placeholder="아이디를 입력하세요."></div>
+								<div class="col-md-6 form-it"><label>[UserPhone]</label><input type="text"
+										placeholder="전화번호를 입력하세요."></div>
+							</div>
+							<div class="row">
+								<div class="col-md-2"><input class="submit" type="submit" value="찾기(Find)"></div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	</div>
+	</div><!-- footer section-->
+	<div th:insert="~{footer :: footerFragment}">
+	</div><!-- end of footer section-->
+	<script src="js/jquery.js"></script>
+	<script src="js/plugins.js"></script>
+	<script src="js/plugins2.js"></script>
+	<script src="js/custom.js"></script>
+
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			var signupButton = document.querySelector(".signupLink a");
+
+			if (signupButton) {
+				signupButton.addEventListener("click", function (event) {
+					event.preventDefault(); // Prevent the default link behavior
+					window.location.href = "user_write_form"; // Redirect to user_write_form
+				});
+			}
+		});
+	</script>
+</body>
+
+</html>
