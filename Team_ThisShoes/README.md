@@ -24,7 +24,7 @@
 * 로그인, 회원가입, 상품검색, 상품주문, 장바구니...등
 <br/><br/><br/>
 
-## 메인페이지
+#### 메인페이지
 
 ![ShopMain](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/fd93e975-469b-4b22-ba79-8f4275289474)
 * 제품 카테고리별 상품 조회가 가능합니다.
@@ -32,24 +32,24 @@
 * 로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인 할 수 있습니다.
 <br/><br/><br/>
 
-## 로그인 및 아이디 찾기 페이지
+#### 로그인 및 아이디 찾기 페이지
 
 ![ShopLogin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/73f665ab-9c24-4aa1-9df2-0e1cf2393b05)
 * 로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인 할 수 있습니다.
 <br/><br/><br/>
 
-## 회원 가입 페이지
+#### 회원 가입 페이지
 ![ShopJoin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/e766535b-bd57-431d-894e-4ddb5b7b8312)
 * 회원가입 항목에서 회원가입을 할 수 있습니다.<br/><br/><br/>
 
 
-## 상품페이지
+#### 상품페이지
 ![ShopProduct](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/f34d527f-41e0-4c0b-ae55-977cd101fed6)
 * 상품 페이지에서 각 브랜드별 상품 검색이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.
 * 상품페이지에서 희망하는 상품 주문이 가능합니다.<br/><br/><br/>
 
 
-## 장바구니 페이지
+#### 장바구니 페이지
 ![ShopCart](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/cf727219-058e-4eb3-849a-ff722baea642)
 * 장바구니 페이지 주문한 상품리스트 확인이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.<br/><br/><br/>
 
