@@ -24,29 +24,29 @@
 
 
 ## 메인페이지
-* ![ShopMain](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/fd93e975-469b-4b22-ba79-8f4275289474)
+![ShopMain](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/fd93e975-469b-4b22-ba79-8f4275289474)
 * 제품 카테고리별 상품 조회가 가능합니다.
 * 메인에 광고 및 이벤트 배너를 게시하여 화살표 버튼 클릭 시 이벤트 이미지 전환이 가능합니다.
 * 로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인 할 수 있습니다. 
 
 
 ## 로그인 및 아이디 찾기 페이지
-* ![ShopLogin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/73f665ab-9c24-4aa1-9df2-0e1cf2393b05)
+![ShopLogin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/73f665ab-9c24-4aa1-9df2-0e1cf2393b05)
 * 로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인 할 수 있습니다.
 
 
 ## 회원 가입 페이지
-* ![ShopJoin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/6d40ec09-d24d-4d3a-85a5-3d530cc9a914)
+![ShopJoin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/6d40ec09-d24d-4d3a-85a5-3d530cc9a914)
 * 회원가입 항목에서 회원가입을 할 수 있습니다.
 
 
 ## 상품페이지
-* ![ShopProduct](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/0aecb0d8-c384-442e-9631-58ea829eb786)
+![ShopProduct](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/0aecb0d8-c384-442e-9631-58ea829eb786)
 * 상품 페이지에서 각 브랜드별 상품 검색이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.
 * 상품페이지에서 희망하는 상품 주문이 가능합니다. 
 
 ## 장바구니 페이지
-* ![ShopCart](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/462b6f18-1127-4b92-af37-01a3a1bf076c)
+![ShopCart](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/462b6f18-1127-4b92-af37-01a3a1bf076c)
 * 장바구니 페이지 주문한 상품리스트 확인이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.
 
 
