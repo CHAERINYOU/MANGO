@@ -39,7 +39,7 @@
 <br/>
 
 ## 회원 가입 페이지
-![ShopJoin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/6d40ec09-d24d-4d3a-85a5-3d530cc9a914)
+![ShopJoin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/6bcc05c7-2a30-4aff-b268-031b8fe458c1)
 * 회원가입 항목에서 회원가입을 할 수 있습니다.
 
 
