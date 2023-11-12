@@ -45,7 +45,7 @@
 * 상품페이지에서 희망하는 상품 주문이 가능합니다.
 
   ## 장바구니 페이지
-![ShopCart](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/462b6f18-1127-4b92-af37-01a3a1bf076c)
+  ![ShopCart](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/462b6f18-1127-4b92-af37-01a3a1bf076c)
 * 장바구니 페이지 주문한 상품리스트 확인이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.
 
 
