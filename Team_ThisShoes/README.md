@@ -40,18 +40,18 @@
 
 ## 회원 가입 페이지
 ![ShopJoin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/e766535b-bd57-431d-894e-4ddb5b7b8312)
-* 회원가입 항목에서 회원가입을 할 수 있습니다.
+* 회원가입 항목에서 회원가입을 할 수 있습니다.<br/>
 
 
 ## 상품페이지
 ![ShopProduct](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/f34d527f-41e0-4c0b-ae55-977cd101fed6)
 * 상품 페이지에서 각 브랜드별 상품 검색이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.
-* 상품페이지에서 희망하는 상품 주문이 가능합니다.
+* 상품페이지에서 희망하는 상품 주문이 가능합니다.<br/>
 
 
 ## 장바구니 페이지
 ![ShopCart](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/cf727219-058e-4eb3-849a-ff722baea642)
-* 장바구니 페이지 주문한 상품리스트 확인이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.
+* 장바구니 페이지 주문한 상품리스트 확인이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.<br/>
 
 
 ## 느낀점
