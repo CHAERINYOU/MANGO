@@ -25,13 +25,14 @@
 
 
 # 메인페이지
-<br/>
+
 ![ShopMain](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/fd93e975-469b-4b22-ba79-8f4275289474)
 * 제품 카테고리별 상품 조회가 가능합니다.
 * 메인에 광고 및 이벤트 배너를 게시하여 화살표 버튼 클릭 시 이벤트 이미지 전환이 가능합니다.
 * 로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인 할 수 있습니다.
+
 # 로그인 및 아이디 찾기 페이지
-<br/>
+
 ![ShopLogin](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/73f665ab-9c24-4aa1-9df2-0e1cf2393b05)
 * 로그인 항목에서 회원가입, 아이디 찾기, 비밀번호 찾기 메뉴를 확인 할 수 있습니다.
 # 회원 가입 페이지
