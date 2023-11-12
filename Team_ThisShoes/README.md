@@ -24,7 +24,7 @@
 * 로그인, 회원가입, 상품검색, 상품주문, 장바구니...등
 
 
-# 메인페이지
+## 메인페이지
 
 ![ShopMain](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/fd93e975-469b-4b22-ba79-8f4275289474)
 * 제품 카테고리별 상품 조회가 가능합니다.
