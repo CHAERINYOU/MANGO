@@ -19,11 +19,17 @@
 ![개발환경](https://github.com/CHAERINYOU/Portfolio/assets/133833066/b4c26e64-da17-4207-9cba-772bbda35ebd)
 * Windows 11, Oracle SQL, Spring Boot, Git
 * JPA, JavaScript,, Oracle SQL, CSS, HTML, SpringBoot 
+* ERD
+* ![Erd](https://github.com/CHAERINYOU/Portfolio/assets/133833066/d8235289-996b-425a-8fc1-b5ed4b12d848)
+
 <br/><br/><br/>
 
 ## 주요기능
+![서비스](https://github.com/CHAERINYOU/Portfolio/assets/133833066/b0d1ef7a-5a57-447f-b479-6d331f99cec3)
 * 로그인, 회원가입, 상품검색, 상품주문, 장바구니...등
 <br/><br/><br/>
+
+
 
 #### 메인페이지
 
