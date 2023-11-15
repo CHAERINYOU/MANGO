@@ -19,7 +19,7 @@
 ![개발환경](https://github.com/CHAERINYOU/Portfolio/assets/133833066/b4c26e64-da17-4207-9cba-772bbda35ebd)
 * Windows 11, Oracle SQL, Spring Boot, Git
 * JPA, JavaScript,, Oracle SQL, CSS, HTML, SpringBoot 
-* ERD
+### ERD
 * ![Erd](https://github.com/CHAERINYOU/Portfolio/assets/133833066/d8235289-996b-425a-8fc1-b5ed4b12d848)
 
 <br/><br/><br/>
