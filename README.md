@@ -1,5 +1,11 @@
 # Portfolio
-* 하위 폴더에 각각의 README가 있습니다.
+* 하위 폴더에 각각의 README가 있습니다.</br> </br> </br>
+
+
+## 쇼핑몰 어플_ Just 3
+![앱_메인](https://github.com/CHAERINYOU/Portfolio/assets/133833066/81faa1fc-0050-4615-8314-4a5d524a936f)
+<br/><br/>
+
 ## 신발 쇼핑몰 사이트_ This Shoes
 ![ShopMain](https://github.com/CHAERINYOU/Portfolio/assets/133833066/1864e6b4-8b46-4a14-a4a5-a176acc36900)
 
