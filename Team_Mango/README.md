@@ -16,6 +16,7 @@
 <br/><br/><br/>
 
 ## 개발환경 및 주요기술
+![개발환경](https://github.com/CHAERINYOU/Portfolio/assets/133833066/b4c26e64-da17-4207-9cba-772bbda35ebd)
 * Windows 11, Oracle SQL, Spring Boot, Git
 * JPA, JavaScript,, Oracle SQL, CSS, HTML, SpringBoot 
 <br/><br/><br/>
