@@ -19,8 +19,11 @@
 * Windows 11, Oracle SQL, Git, Oracle SQL, ERD
 <br/><br/><br/>
 
-#### 메인페이지
+## 주요기능(https://youtu.be/nS9jMUAZ_ng)
+* 제품 검색, 로그인 회원가입 등
+* 링크 클릭 시 시연영상 확인 가능
 
+#### 메인페이지
 ![앱_메인](https://github.com/2023-05-JAVA-DEVELOPER-143/java-project-team3-cccc/assets/133833066/b089cfa3-0da0-491d-aa1c-120ae9525728)
 *  쇼핑몰 메인화면 페이지입니다.
 *  제품 카테고리별 상품 조회가 가능합니다.
