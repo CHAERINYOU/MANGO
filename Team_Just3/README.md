@@ -18,7 +18,7 @@
 ## 개발환경 및 주요기술
 * ERD
 ![shopERD](https://github.com/CHAERINYOU/Portfolio/assets/133833066/2a66d33a-32cf-4770-9296-23a955648019)
-* Windows 11, Oracle SQL, Git, Oracle SQL, ERD
+* Windows 11, Oracle SQL, Git, Oracle SQL, ERD, JAVA, JAVA SWING
 <br/><br/><br/>
 
 ## 주요기능(https://youtu.be/nS9jMUAZ_ng)
