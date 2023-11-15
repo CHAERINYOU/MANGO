@@ -2,7 +2,7 @@
 * 하위 폴더에 각각의 README가 있습니다.</br> </br> </br>
 
 
-## 쇼핑몰 어플_ Just 3
+## 쇼핑몰 어플_ Just 3(https://github.com/CHAERINYOU/Portfolio/tree/master/Team_Just3)
 ![앱_메인11](https://github.com/CHAERINYOU/Portfolio/assets/133833066/8ca39df0-7aa3-4c62-adfe-cd9415206731)
 <br/><br/>
 
