@@ -3,7 +3,7 @@
 
 
 ## 쇼핑몰 어플_ Just 3
-![앱_메인](https://github.com/CHAERINYOU/Portfolio/assets/133833066/81faa1fc-0050-4615-8314-4a5d524a936f)
+![앱_메인11](https://github.com/CHAERINYOU/Portfolio/assets/133833066/8ca39df0-7aa3-4c62-adfe-cd9415206731)
 <br/><br/>
 
 ## 신발 쇼핑몰 사이트_ This Shoes
