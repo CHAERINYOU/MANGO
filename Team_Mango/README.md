@@ -10,8 +10,8 @@
 <br/><br/><br/>
 
 ## 개발기간 및 인원
+![업무분담](https://github.com/CHAERINYOU/Portfolio/assets/133833066/cd805d47-d815-47fb-9943-bd5733b591c1)
 * 2023.10.13. ~ 2023.11.15.
-* 8명
 * 담당파트: UI 디자인, 유저 및 투표파트 서비스 구현(로그인, 회원가입 등)
 <br/><br/><br/>
 
@@ -28,8 +28,6 @@
 ![서비스](https://github.com/CHAERINYOU/Portfolio/assets/133833066/b0d1ef7a-5a57-447f-b479-6d331f99cec3)
 * 로그인, 회원가입, 상품검색, 상품주문, 장바구니...등
 <br/><br/><br/>
-
-
 
 #### 메인페이지
 
