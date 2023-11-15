@@ -44,7 +44,7 @@
 
 
 #### 장바구니 페이지
-![장바구니](https://github.com/2023-05-JAVA-DEVELOPER-143/web-project-team2-bbbb/assets/133833066/fd465633-8dbb-4701-b003-9ef8d48e53e3)
+![앱_장바구니](https://github.com/2023-05-JAVA-DEVELOPER-143/java-project-team3-cccc/assets/133833066/4ef21a75-c27d-4026-a7b3-73c4d5b4a933)
 * 장바구니 페이지 주문한 상품리스트 확인이 가능하며 제품의 수량 변경, 삭제, 주문 등이 가능합니다.<br/><br/><br/>
 
 
